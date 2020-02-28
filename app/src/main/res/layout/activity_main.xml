@@ -25,7 +25,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/textView"
         android:textSize="25dp"
-        android:text="A TextView tartalmát a kiír gombra kattintva írd ki a telefon belső tárhelyén 1 scannedCodes.csv nevű fájlba. A fájl tartalmazza a beolvasott szöveget és a kiírás időpontját yyyy-MM-dd HH:mm:ss formában, vesszővel elválasztva."
+        android:text=""
         android:textAlignment="center"/>
 
 </LinearLayout>
